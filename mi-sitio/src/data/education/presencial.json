@@ -1,0 +1,11 @@
+{
+	"slug": "precensial",
+	"tittle": "Formal education",
+	"description": "Formal education, degree and institution",
+	"items": [
+	{
+		"name":	"Universidad Nacional Experimental de la Gran Caracas",
+		"degree": "TSU en informatica"
+	}
+	]
+}

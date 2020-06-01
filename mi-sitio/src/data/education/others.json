@@ -1,0 +1,11 @@
+{
+	"slug": "additional",
+	"tittle": "Additional education",
+	"description": "Aditioncal education, workshops and courses",
+	"items": [
+	{
+		"name":	"Oxford International Center",
+		"degree": "Bilingual English - Spanish"
+	}
+	]
+}
